@@ -1,4 +1,4 @@
-Simple basic authentication with one line of code for HttpClient().
+Simple basic authentication with one line of code for HttpClient.
 
 ```C#
 using (var client = new HttpClient())
